@@ -6,7 +6,6 @@ import com.eduardosantos.foursquareexercise.base.BaseScheduler;
 import com.eduardosantos.foursquareexercise.data.local.DatabaseManager;
 import com.eduardosantos.foursquareexercise.data.local.RealmDatabaseManager;
 import com.eduardosantos.foursquareexercise.data.model.local.Venue;
-import com.eduardosantos.foursquareexercise.data.remote.FourSquareApi;
 import com.eduardosantos.foursquareexercise.data.remote.NetworkClient;
 
 import io.realm.Realm;

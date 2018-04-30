@@ -18,10 +18,8 @@ import org.robolectric.Shadows;
 import org.robolectric.shadows.ShadowActivity;
 
 import java.net.HttpURLConnection;
-import java.util.Arrays;
 
 import io.realm.OrderedRealmCollectionChangeListener;
-import io.realm.RealmChangeListener;
 import io.realm.RealmList;
 import io.realm.RealmResults;
 import toothpick.Toothpick;
