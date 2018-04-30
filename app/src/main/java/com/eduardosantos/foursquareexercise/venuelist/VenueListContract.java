@@ -4,20 +4,22 @@ import com.eduardosantos.foursquareexercise.base.BasePresenter;
 import com.eduardosantos.foursquareexercise.base.BaseView;
 
 import io.realm.RealmBaseAdapter;
+import io.realm.RealmRecyclerViewAdapter;
 
 public interface VenueListContract {
     interface View extends BaseView<Presenter> {
         void showSearchPlaceHolder();
-        void hideSearchPlaceHolder();
         void showNoResultsPlaceHolder();
-        void hideNoResultsPlaceHolder();
-        void showVenuesList();
-        void hideVenuesList();
-        void setAdapter(RealmBaseAdapter adapter);
+        void hidePlaceHolder();
+        void showVenueList();
+        void hideVenueList();
+        void showProgressBar();
+        void hideProgressBar();
+        void setAdapter(RealmRecyclerViewAdapter adapter);
     }
 
     interface Presenter extends BasePresenter {
-        void doSearch(String searchText);
+        void searchFor(String searchText);
         void loadResults(String searchText);
     }
 

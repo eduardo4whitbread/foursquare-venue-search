@@ -18,24 +18,11 @@
         android:paddingHorizontal="16dp"
         android:background="@android:color/white"
         android:clipToPadding="false"
-        android:paddingBottom="50dp"
         android:paddingTop="16dp"
         android:visibility="gone" />
 
     <ProgressBar
-        android:id="@+id/progressBarPage"
-        style="?android:attr/progressBarStyle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@android:color/transparent"
-        android:visibility="gone"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:visibility="visible" />
-
-    <ProgressBar
-        android:id="@+id/progressBarSearch"
+        android:id="@+id/progressBar"
         style="?android:attr/progressBarStyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -8,6 +8,7 @@ import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
@@ -15,20 +16,20 @@ import com.eduardosantos.foursquareexercise.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.realm.RealmBaseAdapter;
+import io.realm.RealmRecyclerViewAdapter;
 
 public class VenueListActivity extends AppCompatActivity implements VenueListContract.View {
 
     @BindView(R.id.list)
     public RecyclerView list;
-    @BindView(R.id.progressBarPage)
-    public ProgressBar progressBarPage;
-    @BindView(R.id.progressBarSearch)
-    public ProgressBar progressBarSearch;
+    @BindView(R.id.progressBar)
+    public ProgressBar progressBar;
     @BindView(R.id.placeholderText)
     public TextView placeholderText;
     public SearchView searchView;
     public MenuItem searchMenuItem;
+
+    private VenueListContract.Presenter presenter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,6 +37,7 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
         setContentView(R.layout.activity_venue_list);
         ButterKnife.bind(this);
         list.setLayoutManager(new LinearLayoutManager(this));
+        setPresenter(new VenueListPresenter(this));
     }
 
     @Override
@@ -47,6 +49,21 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
         searchView = (SearchView) searchMenuItem.getActionView();
         searchView.setMaxWidth(Integer.MAX_VALUE);
 
+        searchMenuItem.setOnActionExpandListener(new MenuItem.OnActionExpandListener() {
+            @Override
+            public boolean onMenuItemActionExpand(MenuItem item) {
+                return true;
+            }
+
+            @Override
+            public boolean onMenuItemActionCollapse(MenuItem item) {
+                showSearchPlaceHolder();
+                hideProgressBar();
+                hideVenueList();
+                return true;
+            }
+        });
+
         searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
 
             @Override
@@ -57,7 +74,7 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
             @Override
             public boolean onQueryTextSubmit(String query) {
                 searchView.clearFocus();
-                //todo call presenter here
+                presenter.searchFor(query);
                 return false;
             }
 
@@ -67,44 +84,51 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
         return true;
     }
 
-
     @Override
     public void showSearchPlaceHolder() {
-
-    }
-
-    @Override
-    public void hideSearchPlaceHolder() {
-
+        placeholderText.setVisibility(View.VISIBLE);
+        placeholderText.setText("Search for venues near a location");
     }
 
     @Override
     public void showNoResultsPlaceHolder() {
+        placeholderText.setVisibility(View.VISIBLE);
+        placeholderText.setText("No results for search");
+    }
+
+    @Override
+    public void hidePlaceHolder() {
+        placeholderText.setVisibility(View.GONE);
+    }
+
+    @Override
+    public void showVenueList() {
+        list.setVisibility(View.VISIBLE);
+    }
+
+    @Override
+    public void hideVenueList() {
+        list.setVisibility(View.GONE);
 
     }
 
     @Override
-    public void hideNoResultsPlaceHolder() {
-
+    public void showProgressBar() {
+        progressBar.setVisibility(View.VISIBLE);
     }
 
     @Override
-    public void showVenuesList() {
-
+    public void hideProgressBar() {
+        progressBar.setVisibility(View.GONE);
     }
 
     @Override
-    public void hideVenuesList() {
-
-    }
-
-    @Override
-    public void setAdapter(RealmBaseAdapter adapter) {
-
+    public void setAdapter(RealmRecyclerViewAdapter adapter) {
+        list.setAdapter(adapter);
     }
 
     @Override
     public void setPresenter(VenueListContract.Presenter presenter) {
-
+        this.presenter = presenter;
     }
 }
