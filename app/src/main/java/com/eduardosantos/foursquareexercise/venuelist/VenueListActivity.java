@@ -81,7 +81,7 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
         });
 
 
-        return true;
+        return super.onCreateOptionsMenu(menu);
     }
 
     @Override
