@@ -46,7 +46,6 @@ public class OfflineMockInterceptor implements Interceptor {
                 .protocol(Protocol.HTTP_2)
                 .code(code)
                 .build();
-
     }
 
     private String parseStream(InputStream stream) throws IOException {

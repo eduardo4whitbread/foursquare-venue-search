@@ -41,8 +41,7 @@ public class FourSquareExerciseApplication extends Application {
         Scope appScope = Toothpick.openScopes(APPLICATION_SCOPE);
         appScope.installModules(new Module() {{
             bind(BaseScheduler.class).toInstance(new BaseScheduler());
-            bind(FourSquareApi.class).
-                    toInstance(new NetworkClient().getRetrofit().create(FourSquareApi.class));
+            bind(NetworkClient.class).toInstance(new NetworkClient());
             bind(DatabaseManager.class).toInstance(new RealmDatabaseManager());
         }});
 
