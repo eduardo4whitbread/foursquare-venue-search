@@ -62,16 +62,13 @@ public class VenueAdapter extends RealmRecyclerViewAdapter<Venue, VenueAdapter.L
         public void bind(final Venue searchResult) {
 
             if (StringUtils.isNotEmpty(searchResult.getAddress())) {
-                itemView.setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-                        try {
-                            Intent intent = new Intent(Intent.ACTION_VIEW,
-                                    Uri.parse("google.navigation:q=" + searchResult.getAddress()));
-                            itemView.getContext().startActivity(intent);
-                        } catch (ActivityNotFoundException e) {
-                            //todo could suggest user to install maps
-                        }
+                itemView.setOnClickListener(v -> {
+                    try {
+                        Intent intent = new Intent(Intent.ACTION_VIEW,
+                                Uri.parse("google.navigation:q=" + searchResult.getAddress()));
+                        itemView.getContext().startActivity(intent);
+                    } catch (ActivityNotFoundException e) {
+                        //todo could suggest user to install maps
                     }
                 });
             } else {

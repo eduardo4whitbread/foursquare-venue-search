@@ -66,6 +66,7 @@ public class VenueListPresenter implements VenueListContract.Presenter {
                     @Override
                     public void onError(Throwable e) {
                         view.hideProgressBar();
+                        //when 0 results for searchText foursquare returns a 400
                         view.showNoResultsPlaceHolder();
                     }
                 });

@@ -87,13 +87,13 @@ public class VenueListActivity extends AppCompatActivity implements VenueListCon
     @Override
     public void showSearchPlaceHolder() {
         placeholderText.setVisibility(View.VISIBLE);
-        placeholderText.setText("Search for venues near a location");
+        placeholderText.setText(R.string.search_placeholder_text);
     }
 
     @Override
     public void showNoResultsPlaceHolder() {
         placeholderText.setVisibility(View.VISIBLE);
-        placeholderText.setText("No results for search");
+        placeholderText.setText(R.string.no_results_placeholder_text);
     }
 
     @Override

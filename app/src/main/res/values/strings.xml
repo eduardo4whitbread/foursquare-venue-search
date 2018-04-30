@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FourSquare Exercise</string>
+    <string name="venue_name_label">Name:</string>
+    <string name="venue_address_label">Address:</string>
+    <string name="search_placeholder_text">Search for venues near a location</string>
+    <string name="no_results_placeholder_text">No results for search</string>
 </resources>
