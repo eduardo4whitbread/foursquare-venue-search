@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
 
 android {
     compileSdkVersion 27
@@ -11,9 +12,29 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
+        def CLIENT_ID = "CLIENT_ID"
+        def CLIENT_SECRET = "CLIENT_SECRET"
+        def CLIENT_VERSION = "CLIENT_VERSION"
+        def CLIENT_ID_VALUE = "3OJIIUGSKUUYJHOHMVHFMEY4YFDNAHGWNSTQJUFUG4WVKEMY"
+        def CLIENT_SECRET_VALUE = "ULLEEZTE2DJN2A024LPJPNR15TXFJDQ4MMAO0VGWX4LEMKQE"
+        def CLIENT_VERSION_VALUE = "20180528"
+
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            buildConfigField("String", CLIENT_ID, CLIENT_ID_VALUE)
+            buildConfigField("String", CLIENT_SECRET, CLIENT_SECRET_VALUE)
+            buildConfigField("String", CLIENT_VERSION, CLIENT_VERSION_VALUE)
+        }
+
+        debug{
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
+            buildConfigField("String", CLIENT_ID, "3OJIIUGSKUUYJHOHMVHFMEY4YFDNAHGWNSTQJUFUG4WVKEMY")
+            buildConfigField("String", CLIENT_SECRET, "ULLEEZTE2DJN2A024LPJPNR15TXFJDQ4MMAO0VGWX4LEMKQE")
+            buildConfigField("String", CLIENT_VERSION, "20180528")
         }
     }
 }
