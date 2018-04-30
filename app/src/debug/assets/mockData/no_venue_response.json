@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "code": 400,
+    "errorType": "failed_geocode",
+    "errorDetail": "Couldn't geocode param near: coisada",
+    "requestId": "5ae73b3adb04f5615d86170e"
+  },
+  "response": {
+
+  }
+}

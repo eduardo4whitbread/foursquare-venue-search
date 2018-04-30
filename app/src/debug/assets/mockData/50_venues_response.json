@@ -1,0 +1,2118 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ae73ae1db04f5615e67c4d8"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4b8ea912f964a5202f2f33e3",
+        "name": "Sainsbury's",
+        "location": {
+          "address": "129-133 Kingsway",
+          "crossStreet": "at High Holborn",
+          "lat": 51.517454133909,
+          "lng": -0.12047140004768,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517454133909,
+              "lng": -0.12047140004768
+            }
+          ],
+          "postalCode": "WC2B 6NH",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "129-133 Kingsway (at High Holborn)",
+            "Camden",
+            "Greater London",
+            "WC2B 6NH",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d118951735",
+            "name": "Mercearia",
+            "pluralName": "Mercearias",
+            "shortName": "Mercearia",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/food_grocery_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ad090f1f964a52074d820e3",
+        "name": "Holborn London Underground Station",
+        "location": {
+          "address": "Kingsway",
+          "lat": 51.517442509835,
+          "lng": -0.12017905712128,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517442509835,
+              "lng": -0.12017905712128
+            }
+          ],
+          "postalCode": "WC2B 6AA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Kingsway",
+            "Holborn",
+            "Greater London",
+            "WC2B 6AA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1fd931735",
+            "name": "Esta\u00e7\u00e3o de Metr\u00f4",
+            "pluralName": "Esta\u00e7\u00f5es de Metr\u00f4",
+            "shortName": "Metr\u00f4",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/subway_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4f5a9180e4b085f52c7aba34",
+        "name": "Holborn",
+        "location": {
+          "lat": 51.51758189183,
+          "lng": -0.12056401080545,
+          "postalCode": "W C1V",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Holborn",
+            "Greater London",
+            "W C1V",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4f2a25ac4b909258e854f55f",
+            "name": "Bairro",
+            "pluralName": "Bairros",
+            "shortName": "Bairro",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/neighborhood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ba0a226f964a520237537e3",
+        "name": "Costa Coffee",
+        "location": {
+          "address": "226 High Holborn",
+          "crossStreet": "at Kingsway",
+          "lat": 51.517551787283,
+          "lng": -0.12032924593984,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517551787283,
+              "lng": -0.12032924593984
+            }
+          ],
+          "postalCode": "WC",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "226 High Holborn (at Kingsway)",
+            "Londres",
+            "Greater London",
+            "WC",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Cafeteria",
+            "pluralName": "Cafeterias",
+            "shortName": "Cafeteria",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4e4a5a8952b11cf651b089b0",
+        "name": "HSBC",
+        "location": {
+          "address": "210 High Holborn",
+          "lat": 51.51746367222,
+          "lng": -0.12140776879429,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.51746367222,
+              "lng": -0.12140776879429
+            }
+          ],
+          "postalCode": "WC1V 7BZ",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "210 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 7BZ",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Banco",
+            "pluralName": "Bancos",
+            "shortName": "Banco",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4d66e46e2aef6a3118766234",
+        "name": "Boots",
+        "location": {
+          "address": "129-133 Kingsway",
+          "crossStreet": "at High Holborn",
+          "lat": 51.517404845267,
+          "lng": -0.12038060831081,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517404845267,
+              "lng": -0.12038060831081
+            }
+          ],
+          "postalCode": "WC2B 6PP",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "129-133 Kingsway (at High Holborn)",
+            "Londres",
+            "Greater London",
+            "WC2B 6PP",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Farm\u00e1cia",
+            "pluralName": "Farm\u00e1cias",
+            "shortName": "Farm\u00e1cia",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c17397a5e88c928fa4d2566",
+        "name": "Metro Bank",
+        "location": {
+          "address": "1 Southampton Row",
+          "crossStreet": "at High Holborn",
+          "lat": 51.517570074063,
+          "lng": -0.12060947225967,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517570074063,
+              "lng": -0.12060947225967
+            }
+          ],
+          "postalCode": "WC1B 5HA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "1 Southampton Row (at High Holborn)",
+            "Holborn",
+            "Greater London",
+            "WC1B 5HA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Banco",
+            "pluralName": "Bancos",
+            "shortName": "Banco",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ec449252c5b6307e64c488c",
+        "name": "PetLondon",
+        "location": {
+          "address": "16 wigmore street",
+          "lat": 51.517569359378,
+          "lng": -0.1203989982605,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517569359378,
+              "lng": -0.1203989982605
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "16 wigmore street",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d100951735",
+            "name": "Pet Shop",
+            "pluralName": "Pet Shops",
+            "shortName": "Pet Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pet_store_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4d7e0ee7dd4a6ea871376225",
+        "name": "Cards Galore",
+        "location": {
+          "address": "Unit 2, 1 Southampton Row, London, WC1B 5HA",
+          "lat": 51.517488117026,
+          "lng": -0.12162541039052,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517488117026,
+              "lng": -0.12162541039052
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Unit 2, 1 Southampton Row, London, WC1B 5HA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d128951735",
+            "name": "Loja de Presentes",
+            "pluralName": "Lojas de Presentes",
+            "shortName": "Loja de Presentes",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/giftshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "550ffabf498e8598e2b5486e",
+        "name": "Trinity SELT Centre",
+        "location": {
+          "lat": 51.517674434829,
+          "lng": -0.1204265913404,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517674434829,
+              "lng": -0.1204265913404
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4fbb8fd3e4b03e1f0d95c24a",
+        "name": "Wasabi",
+        "location": {
+          "address": "116 High Holborn",
+          "lat": 51.517653414476,
+          "lng": -0.12004678381838,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517653414476,
+              "lng": -0.12004678381838
+            }
+          ],
+          "postalCode": "WC1V 6RD",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "116 High Holborn",
+            "Holborn",
+            "Greater London",
+            "WC1V 6RD",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d2941735",
+            "name": "Casa de Sushi",
+            "pluralName": "Casas de Sushi",
+            "shortName": "Sushi",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/sushi_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4bfed5aa68c7a5930dc23f44",
+        "name": "TfL Bus 68",
+        "location": {
+          "lat": 51.513180731888,
+          "lng": -0.11698836906755,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.513180731888,
+              "lng": -0.11698836906755
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d12b951735",
+            "name": "Linha de \u00d4nibus",
+            "pluralName": "Linhas de \u00d4nibus",
+            "shortName": "\u00d4nibus",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/busstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "51cda6e3498e7e86b43ff201",
+        "name": "Platform 3",
+        "location": {
+          "address": "Holborn London Underground Station",
+          "lat": 51.517423014386,
+          "lng": -0.12040193853693,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517423014386,
+              "lng": -0.12040193853693
+            }
+          ],
+          "cc": "GB",
+          "city": "Greater London",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Holborn London Underground Station",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4f4531504b9074f6e4fb0102",
+            "name": "Plataforma",
+            "pluralName": "Plataformas",
+            "shortName": "Plataforma",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/trainstation_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4bcf72d877b29c745d1c8982",
+        "name": "Secrets",
+        "location": {
+          "lat": 51.517611895933,
+          "lng": -0.11972777581553,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517611895933,
+              "lng": -0.11972777581553
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d6941735",
+            "name": "Casa de Striptease",
+            "pluralName": "Casas de Striptease",
+            "shortName": "Casa de Striptease",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/stripclub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4d89f300401a224b5cce9618",
+        "name": "ctms Travel",
+        "location": {
+          "address": "The Connection",
+          "crossStreet": "198 High Holborn",
+          "lat": 51.517413906802,
+          "lng": -0.12115704479616,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517413906802,
+              "lng": -0.12115704479616
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "The Connection (198 High Holborn)",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1f6931735",
+            "name": "Viagem em Geral",
+            "pluralName": "Viagem em Geral",
+            "shortName": "Viagem",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/travel\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c1f644d63750f471506bb67",
+        "name": "Pret A Manger",
+        "location": {
+          "address": "125 High Holborn",
+          "crossStreet": "Southampton Place",
+          "lat": 51.517559315332,
+          "lng": -0.12095437854693,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517559315332,
+              "lng": -0.12095437854693
+            }
+          ],
+          "postalCode": "WC1V 6AN",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "125 High Holborn (Southampton Place)",
+            "Holborn, London",
+            "Greater London",
+            "WC1V 6AN",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sanduicheria",
+            "pluralName": "Sanduicherias",
+            "shortName": "Sandu\u00edche",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "56e9528b498ee6c6f50f6388",
+        "name": "Excel Recruitment",
+        "location": {
+          "lat": 51.517551220679,
+          "lng": -0.12062043679666,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517551220679,
+              "lng": -0.12062043679666
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b57",
+            "name": "Ag\u00eancia de Recrutamento",
+            "pluralName": "Ag\u00eancias de Recrutamento",
+            "shortName": "Ag\u00eancia de Recrutamento",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c0e2f2ab1b676b04d97e186",
+        "name": "pod",
+        "location": {
+          "address": "High Holborn",
+          "lat": 51.517557394384,
+          "lng": -0.12072837072361,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517557394384,
+              "lng": -0.12072837072361
+            }
+          ],
+          "postalCode": "WC1V 6AN",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "High Holborn",
+            "Camden",
+            "Greater London",
+            "WC1V 6AN",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1bd941735",
+            "name": "Casa de Salada",
+            "pluralName": "Casas de Salada",
+            "shortName": "Salada",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/salad_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4d92f88c7ac3a35dbd71cb25",
+        "name": "Food Standards Agency",
+        "location": {
+          "address": "125 kingsway",
+          "lat": 51.517238041135,
+          "lng": -0.12042018443643,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517238041135,
+              "lng": -0.12042018443643
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "125 kingsway",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "58ee404dfebfbd1013081983",
+        "name": "DINTS",
+        "location": {
+          "lat": 51.517708,
+          "lng": -0.120196,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517708,
+              "lng": -0.120196
+            }
+          ],
+          "postalCode": "WC1V 6RD",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Londres",
+            "Greater London",
+            "WC1V 6RD",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "547ded94498ed2044efe0562",
+        "name": "Byron",
+        "location": {
+          "address": "114 High Holborn",
+          "lat": 51.51766425498,
+          "lng": -0.11994818662597,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.51766425498,
+              "lng": -0.11994818662597
+            }
+          ],
+          "postalCode": "WC1V 6JQ",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "114 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 6JQ",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Hamburgueria",
+            "pluralName": "Hamburguerias",
+            "shortName": "Hamb\u00farguer",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4e2e78548877341a51488cc0",
+        "name": "GlobalReach Technology Limited",
+        "location": {
+          "address": "Craven House",
+          "crossStreet": "Kingsway",
+          "lat": 51.517788581267,
+          "lng": -0.11864844621975,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517788581267,
+              "lng": -0.11864844621975
+            }
+          ],
+          "postalCode": "WC2B 6NX",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Craven House (Kingsway)",
+            "Holborn",
+            "Greater London",
+            "WC2B 6NX",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "venuePage": {
+          "id": "83046164"
+        },
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "59bbbfdb72475026b9139be1",
+        "name": "Hiba",
+        "location": {
+          "address": "113 High Holborn",
+          "lat": 51.517626,
+          "lng": -0.119976,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517626,
+              "lng": -0.119976
+            }
+          ],
+          "postalCode": "W C1V",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "113 High Holborn",
+            "Londres",
+            "Greater London",
+            "W C1V",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "58daa1558bbb0b01f18ec1cd",
+            "name": "Restaurante Liban\u00eas",
+            "pluralName": "Restaurantes Libaneses",
+            "shortName": "Liban\u00eas",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/middleeastern_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4de620dbe4cde71744b78941",
+        "name": "Hiba Express",
+        "location": {
+          "address": "113 High Holborn",
+          "lat": 51.517678156366,
+          "lng": -0.11986145715758,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517678156366,
+              "lng": -0.11986145715758
+            }
+          ],
+          "postalCode": "WC1V 6JQ",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "113 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 6JQ",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d115941735",
+            "name": "Restaurante \u00c1rabe",
+            "pluralName": "Restaurantes \u00c1rabes",
+            "shortName": "\u00c1rabe",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/middleeastern_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c1fd470920076b0e85ac5e9",
+        "name": "TSB Bank",
+        "location": {
+          "address": "120 High Holborn",
+          "lat": 51.517824,
+          "lng": -0.120076,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517824,
+              "lng": -0.120076
+            }
+          ],
+          "postalCode": "WC1V 6RD",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "120 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 6RD",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Banco",
+            "pluralName": "Bancos",
+            "shortName": "Banco",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ba26be6f964a5205ff737e3",
+        "name": "FreshNetworks",
+        "location": {
+          "address": "229-231 High Holborn",
+          "lat": 51.517494920204,
+          "lng": -0.11993036609675,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517494920204,
+              "lng": -0.11993036609675
+            }
+          ],
+          "postalCode": "WC1V 7DA",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "229-231 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 7DA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4d5a3dc37e223704c0b3ba73",
+        "name": "88 Kingsway",
+        "location": {
+          "address": "88 Kingsway",
+          "lat": 51.517261726607,
+          "lng": -0.12020704891656,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517261726607,
+              "lng": -0.12020704891656
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "88 Kingsway",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4b520183f964a520be6027e3",
+        "name": "Asadal",
+        "location": {
+          "address": "229-231 Kingsway",
+          "lat": 51.517689553578,
+          "lng": -0.11993554802665,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517689553578,
+              "lng": -0.11993554802665
+            }
+          ],
+          "postalCode": "WC1V 7DA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "229-231 Kingsway",
+            "Holborn",
+            "Greater London",
+            "WC1V 7DA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d113941735",
+            "name": "Restaurante Coreano",
+            "pluralName": "Restaurantes Coreanos",
+            "shortName": "Coreano",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/korean_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4cbc1c4fadcd548179612ca2",
+        "name": "English Studio",
+        "location": {
+          "address": "Holborn House",
+          "crossStreet": "113 High Holborn",
+          "lat": 51.517728884328,
+          "lng": -0.11974519322768,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517728884328,
+              "lng": -0.11974519322768
+            }
+          ],
+          "postalCode": "WC1V 6JQ",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Holborn House (113 High Holborn)",
+            "Londres",
+            "Greater London",
+            "WC1V 6JQ",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ab941735",
+            "name": "Centro Acad\u00eamico",
+            "pluralName": "Centros Acad\u00eamicos",
+            "shortName": "Centro Acad\u00eamico",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/studentcenter_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4b795608f964a5209cf42ee3",
+        "name": "Krispy Kreme",
+        "location": {
+          "address": "Kingsbourne House, 229 High Holborn",
+          "lat": 51.517698067321,
+          "lng": -0.1199059120679,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517698067321,
+              "lng": -0.1199059120679
+            }
+          ],
+          "postalCode": "WC1V 7DA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Kingsbourne House, 229 High Holborn",
+            "Holborn",
+            "Greater London",
+            "WC1V 7DA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d148941735",
+            "name": "Loja de Rosquinhas",
+            "pluralName": "Lojas de Rosquinhas",
+            "shortName": "Rosquinhas",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/donuts_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4b4c950ff964a520b2b626e3",
+        "name": "Nando's",
+        "location": {
+          "address": "9-10 Southampton Pl",
+          "lat": 51.517662540684,
+          "lng": -0.1214381991195,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517662540684,
+              "lng": -0.1214381991195
+            }
+          ],
+          "postalCode": "WC1A 2EA",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "9-10 Southampton Pl",
+            "Londres",
+            "Greater London",
+            "WC1A 2EA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4def73e84765ae376e57713a",
+            "name": "Restaurante Portugu\u00eas",
+            "pluralName": "Restaurantes Portugueses",
+            "shortName": "Portugu\u00eas",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/portuguese_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4cc1581521a4f04d615b6355",
+        "name": "Aviation House",
+        "location": {
+          "address": "125 Kingsway",
+          "lat": 51.517232231968,
+          "lng": -0.12073491011358,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517232231968,
+              "lng": -0.12073491011358
+            }
+          ],
+          "postalCode": "WC2B 5EL",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "125 Kingsway",
+            "Londres",
+            "Greater London",
+            "WC2B 5EL",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "57f60d13498eaf5ab063b80f",
+        "name": "5th Floor Kitchen",
+        "location": {
+          "lat": 51.517719,
+          "lng": -0.120469,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517719,
+              "lng": -0.120469
+            }
+          ],
+          "postalCode": "WC2B 6AA",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Londres",
+            "Greater London",
+            "WC2B 6AA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d143941735",
+            "name": "Caf\u00e9 da Manh\u00e3",
+            "pluralName": "Caf\u00e9s da Manh\u00e3",
+            "shortName": "Caf\u00e9 da manh\u00e3",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/breakfast_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "5162a915e4b00e962d2bf34f",
+        "name": "MRC Clinical Trials Unit at UCL",
+        "location": {
+          "address": "Aviation House, 125 Kingsway",
+          "lat": 51.517217419266,
+          "lng": -0.12075761026206,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517217419266,
+              "lng": -0.12075761026206
+            }
+          ],
+          "postalCode": "WC2B 6NH",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Aviation House, 125 Kingsway",
+            "Londres",
+            "Greater London",
+            "WC2B 6NH",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1a8941735",
+            "name": "Faculdade e Universidade em Geral",
+            "pluralName": "Faculdades e Universidades em Geral",
+            "shortName": "Educa\u00e7\u00e3o",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/education\/other_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c8a26799ef0224b6604587b",
+        "name": "New Look",
+        "location": {
+          "address": "233 High Holborn",
+          "lat": 51.517529301665,
+          "lng": -0.11944949626923,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517529301665,
+              "lng": -0.11944949626923
+            }
+          ],
+          "postalCode": "WC1V 7DN",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "233 High Holborn",
+            "Londres",
+            "Greater London",
+            "WC1V 7DN",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d108951735",
+            "name": "Loja Feminina",
+            "pluralName": "Lojas Femininas",
+            "shortName": "Loja Feminina",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/apparel_women_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "577a54a2498ec5cc1b65129e",
+        "name": "Jinn",
+        "location": {
+          "address": "88 Kingsway",
+          "lat": 51.517306380355,
+          "lng": -0.12021687882452,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517306380355,
+              "lng": -0.12021687882452
+            }
+          ],
+          "postalCode": "WC2B 6AA",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "88 Kingsway",
+            "Londres",
+            "Greater London",
+            "WC2B 6AA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d125941735",
+            "name": "Startup de Tecnologia",
+            "pluralName": "Startups de Tecnologia",
+            "shortName": "Startup de Tecnologia",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/technology_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "532305ad498e7102820fe17d",
+        "name": "Scribbler",
+        "location": {
+          "address": "119 Kingsway",
+          "lat": 51.517187,
+          "lng": -0.120277,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517187,
+              "lng": -0.120277
+            }
+          ],
+          "postalCode": "WC2B 6PP",
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "119 Kingsway",
+            "Londres",
+            "Greater London",
+            "WC2B 6PP",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d128951735",
+            "name": "Loja de Presentes",
+            "pluralName": "Lojas de Presentes",
+            "shortName": "Loja de Presentes",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/giftshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "5011115ce4b0befd11d2542f",
+        "name": "One Southampton Row",
+        "location": {
+          "crossStreet": "Southapton Row",
+          "lat": 51.517921,
+          "lng": -0.120247,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517921,
+              "lng": -0.120247
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Southapton Row",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d174941735",
+            "name": "Espa\u00e7o de Coworking",
+            "pluralName": "Espa\u00e7os de Coworking",
+            "shortName": "Espa\u00e7o de Coworking",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/office_coworkingspace_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ba0d8c4f964a520dd8137e3",
+        "name": "Samurai Sushi & Bento",
+        "location": {
+          "address": "116 High Holborn",
+          "lat": 51.517585161316,
+          "lng": -0.12014120066896,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517585161316,
+              "lng": -0.12014120066896
+            }
+          ],
+          "postalCode": "WC1V 6RD",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "116 High Holborn",
+            "Holborn",
+            "Greater London",
+            "WC1V 6RD",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1d2941735",
+            "name": "Casa de Sushi",
+            "pluralName": "Casas de Sushi",
+            "shortName": "Sushi",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/sushi_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4b1d363af964a520140d24e3",
+        "name": "FreshMinds",
+        "location": {
+          "address": "229-231 High Holborn",
+          "lat": 51.517438734426,
+          "lng": -0.11989646752368,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517438734426,
+              "lng": -0.11989646752368
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "229-231 High Holborn",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d124941735",
+            "name": "Escrit\u00f3rio",
+            "pluralName": "Escrit\u00f3rios",
+            "shortName": "Escrit\u00f3rio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4bd7fb68e914a593264252fa",
+        "name": "Superdrug",
+        "location": {
+          "address": "232 High Holborn",
+          "lat": 51.517667400276,
+          "lng": -0.11971001066886,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517667400276,
+              "lng": -0.11971001066886
+            }
+          ],
+          "postalCode": "WC1V 7DA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "232 High Holborn",
+            "Holborn",
+            "Greater London",
+            "WC1V 7DA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10f951735",
+            "name": "Farm\u00e1cia",
+            "pluralName": "Farm\u00e1cias",
+            "shortName": "Farm\u00e1cia",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/pharmacy_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4ec44a74d3e3098aeabda3b6",
+        "name": "The Covent Garden Salon",
+        "location": {
+          "address": "69A Endell St",
+          "lat": 51.517288954652,
+          "lng": -0.12035608291626,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517288954652,
+              "lng": -0.12035608291626
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "69A Endell St",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4d1cf8421a97d635ce361c31",
+            "name": "Sal\u00e3o de Bronzeamento",
+            "pluralName": "Sal\u00f5es de Bronzeamento",
+            "shortName": "Sal\u00e3o de Bronzeamento",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/tanning_salon_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "52276c4011d299bd78acc54c",
+        "name": "Dragon Hall",
+        "location": {
+          "lat": 51.517272662305,
+          "lng": -0.12048869440338,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517272662305,
+              "lng": -0.12048869440338
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1df941735",
+            "name": "Ponte",
+            "pluralName": "Pontes",
+            "shortName": "Ponte",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/bridge_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "54761cc5498eb26d3bdc0109",
+        "name": "Caff\u00e8 Nero",
+        "location": {
+          "address": "Holborn Proctor House Unit 1A",
+          "lat": 51.517817720454,
+          "lng": -0.1192552592107,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517817720454,
+              "lng": -0.1192552592107
+            }
+          ],
+          "postalCode": "WC1V 6QL",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Holborn Proctor House Unit 1A",
+            "Holborn",
+            "Greater London",
+            "WC1V 6QL",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Cafeteria",
+            "pluralName": "Cafeterias",
+            "shortName": "Cafeteria",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4afd6abff964a520b62722e3",
+        "name": "Shakespeare's Head (Wetherspoon)",
+        "location": {
+          "address": "64-68 Kingsway",
+          "lat": 51.516756111153,
+          "lng": -0.11968916165935,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.516756111153,
+              "lng": -0.11968916165935
+            }
+          ],
+          "postalCode": "WC2B 6BG",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "64-68 Kingsway",
+            "Holborn",
+            "Greater London",
+            "WC2B 6BG",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d11b941735",
+            "name": "Pub",
+            "pluralName": "Pubs",
+            "shortName": "Pub",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/nightlife\/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "50c8ce25e4b04d95880847a3",
+        "name": "Holborn Focus",
+        "location": {
+          "address": "229 High Holborn",
+          "lat": 51.517649500366,
+          "lng": -0.11985904162989,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517649500366,
+              "lng": -0.11985904162989
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "229 High Holborn",
+            "Londres",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d130941735",
+            "name": "Edif\u00edcio",
+            "pluralName": "Edif\u00edcios",
+            "shortName": "Edif\u00edcio",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/building\/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "51e13cc5498e6dfbbb2f1b4c",
+        "name": "Jubilee Greenway",
+        "location": {
+          "lat": 51.517262521433,
+          "lng": -0.12030517556088,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517262521433,
+              "lng": -0.12030517556088
+            }
+          ],
+          "cc": "GB",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d159941735",
+            "name": "Trilha",
+            "pluralName": "Trilhas",
+            "shortName": "Trilha",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/parks_outdoors\/hikingtrail_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4c7283788efc3704ef12137d",
+        "name": "NatWest",
+        "location": {
+          "address": "High Holborn",
+          "lat": 51.518049012112,
+          "lng": -0.12077342666142,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.518049012112,
+              "lng": -0.12077342666142
+            }
+          ],
+          "cc": "GB",
+          "city": "Londres",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "High Holborn",
+            "Camden",
+            "Greater London",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d10a951735",
+            "name": "Banco",
+            "pluralName": "Bancos",
+            "shortName": "Banco",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/shops\/financial_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4bb49fd0c4d8b7132a352b81",
+        "name": "EAT.",
+        "location": {
+          "address": "126 High Holborn",
+          "lat": 51.517546369431,
+          "lng": -0.12127961977592,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517546369431,
+              "lng": -0.12127961977592
+            }
+          ],
+          "postalCode": "WC1V 6QA",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "126 High Holborn",
+            "Holborn",
+            "Greater London",
+            "WC1V 6QA",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sanduicheria",
+            "pluralName": "Sanduicherias",
+            "shortName": "Sandu\u00edche",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      },
+      {
+        "id": "4af889e6f964a520210e22e3",
+        "name": "McDonald's",
+        "location": {
+          "address": "112 High Holborn",
+          "crossStreet": "Southampton Row",
+          "lat": 51.517709014103,
+          "lng": -0.11967114805278,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 51.517709014103,
+              "lng": -0.11967114805278
+            }
+          ],
+          "postalCode": "WC1V 6JS",
+          "cc": "GB",
+          "city": "Holborn",
+          "state": "Greater London",
+          "country": "Reino Unido",
+          "formattedAddress": [
+            "112 High Holborn (Southampton Row)",
+            "Holborn",
+            "Greater London",
+            "WC1V 6JS",
+            "Reino Unido"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16e941735",
+            "name": "Restaurante Fast Food",
+            "pluralName": "Restaurantes Fast Food",
+            "shortName": "Fast Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/fastfood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1525103329",
+        "hasPerk": false
+      }
+    ],
+    "confident": false,
+    "geocode": {
+      "what": "",
+      "where": "holborn",
+      "feature": {
+        "cc": "GB",
+        "name": "Holborn",
+        "displayName": "Holborn, Greater London, United Kingdom",
+        "matchedName": "Holborn, Greater London, United Kingdom",
+        "highlightedName": "<b>Holborn<\/b>, Greater London, United Kingdom",
+        "woeType": 7,
+        "id": "geonameid:2646781",
+        "longId": "72057594040574717",
+        "geometry": {
+          "center": {
+            "lat": 51.51753,
+            "lng": -0.12045
+          },
+          "bounds": {
+            "ne": {
+              "lat": 51.5226173401,
+              "lng": -0.101709000766
+            },
+            "sw": {
+              "lat": 51.50831604,
+              "lng": -0.131556004286
+            }
+          }
+        }
+      },
+      "parents": [
+
+      ]
+    }
+  }
+}
